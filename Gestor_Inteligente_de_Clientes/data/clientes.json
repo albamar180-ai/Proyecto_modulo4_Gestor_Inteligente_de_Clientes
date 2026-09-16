@@ -1,0 +1,20 @@
+[
+    {
+        "id": 2,
+        "nombre": "emma santander",
+        "email": "administracion@emmaltda.com",
+        "telefono": "56998926089",
+        "direccion": "esmeralda 221",
+        "tipo": "Premium",
+        "empresa": ""
+    },
+    {
+        "id": 3,
+        "nombre": "luciano contreras",
+        "email": "lucianocon1309@gmail.com",
+        "telefono": "56998926089",
+        "direccion": "esmeralda 221",
+        "tipo": "Corporativo",
+        "empresa": "emma ltda"
+    }
+]
